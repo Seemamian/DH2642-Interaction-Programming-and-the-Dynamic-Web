@@ -1,0 +1,9 @@
+/* A debug class, used to separate components graphically during development */
+.debug {
+    border-style:solid;
+}
+
+
+.alignCorrect{
+    text-align: right;
+}

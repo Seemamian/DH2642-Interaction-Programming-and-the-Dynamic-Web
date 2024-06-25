@@ -1,0 +1,35 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		// Javascript (ES6) Code Snippets
+		"xabikos.JavaScriptSnippets",
+		// Path Intellisense
+		"christian-kohler.path-intellisense",
+		// Auto Rename Tag
+		"formulahendry.auto-rename-tag",
+		// Better Comments
+		"aaron-bond.better-comments",
+		// HTML CSS Support
+		"ecmel.vscode-html-css",
+		// Sonarlint
+		"sonarsource.sonarlint-vscode",
+		// Prettier - Code formatter
+		"esbenp.prettier-vscode",
+		// RECOMMENDED 
+		// Uncomment to activate the following extensions
+		// 
+		// GitGraph
+		// "mhutchie.git-graph",
+		// Live Share
+		// "ms-vsliveshare.vsliveshare",
+		// Git Mob Co-author commits
+		// "RichardKotze.git-mob",
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}
